@@ -781,7 +781,6 @@ namespace TX.Framework.WindowUI.Controls
                 isMouseDown = true;      
             }         
         }
-
         protected override void OnMouseMove(MouseEventArgs e)
         {
             base.OnMouseMove(e);

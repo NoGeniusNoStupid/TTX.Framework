@@ -39,6 +39,7 @@ namespace TX.Framework.WindowUI.Controls
         /// 是否可拖动
         /// </summary>
         private bool _IsCanDrag = false;
+        
         #endregion
 
         #region Initializes

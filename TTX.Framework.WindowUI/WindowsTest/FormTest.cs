@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace WindowsTest
 {
-    public partial class TestForm : Form
+    public partial class FormTest : Form
     {
-        public TestForm()
+        public FormTest()
         {
             InitializeComponent();
         }

@@ -87,8 +87,6 @@ namespace WindowsTest
 
         private void txButton11_Click(object sender, EventArgs e)
         {
-            TestForm myForm = new TestForm();
-            myForm.ShowDialog();
         }
     }
 }
