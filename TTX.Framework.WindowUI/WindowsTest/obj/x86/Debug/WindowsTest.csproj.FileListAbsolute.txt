@@ -85,3 +85,6 @@ E:\Backups\百度云下载\TTX.Framework.WindowUI\TTX.Framework.WindowUI\Windows
 E:\TTX.Framework\TTX.Framework.WindowUI\WindowsTest\bin\Debug\WindowsTest.exe.config
 E:\TTX.Framework\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.exe
 E:\TTX.Framework\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.pdb
+E:\GitHubMapping\TTX.Framework.WindowUI\WindowsTest\bin\Debug\WindowsTest.exe.config
+E:\GitHubMapping\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.exe
+E:\GitHubMapping\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.pdb
